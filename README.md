@@ -1,24 +1,16 @@
-HTML Structure:
-The HTML file defines the structure of the web page, including the header, main content sections, and footer. Notable elements include:
+ As part of learning to code,I completed a project that involved creating a basic Netflix clone built using HTML, CSS, and JavaScript. It utilizes the TMDB API and YouTube Search API to fetch and display movie and TV show data.
 
-Header: Contains the Netflix logo, language dropdown, and a “Sign in” button.
-Main Sections: Divided into a hero section, features section, frequently asked questions (FAQ) section, and a “Get Started” email section.
-Footer: Comprising multiple rows with links and information, including a language dropdown and Netflix India details.
-------
-CSS Styling:
-The CSS file is responsible for styling the HTML elements, providing a visually appealing and responsive layout. Some key styling aspects include:
+Tech-Stack-
+HTML5 CSS3 JavaScript
+Features-
+Movie and TV show data: The project uses the TMDB API and YouTube Search API to fetch and display movie and TV show data. Users can browse through a collection of popular movies and TV shows, search for specific titles, and view trailers.
 
-Global Styling: Resets default margin and padding, sets the background color, and defines the font family.
-Navbar Styling: Ensures the navigation bar is positioned at the top, styled the logo, language dropdown, and “Sign in” button.
-Hero Section Styling: Creates an overlay on the hero background image, styles the hero card with the title, subtitle, and email form.
-Feature Section Styling: Styles individual feature cards with details and images, including the background videos and GIFs.
-FAQ Section Styling: Styles FAQ accordions, making them visually appealing and ensuring smooth transitions.
+User-friendly interface: The project features a clean and intuitive user interface that makes it easy to navigate and search for content. The design is also responsive, adapting to different screen sizes and devices.
 
+Responsive design: The project is designed to be responsive, ensuring that the user interface is optimized for all screen sizes and devices. This includes desktops, laptops, tablets, and smartphones.
 
-JavaScript Interactivity:
-The JavaScript file adds interactivity to the project, particularly to the FAQ section. Key JavaScript functionalities include:
+API integration: The project demonstrates skills in API integration, specifically using the TMDB API and YouTube Search API to fetch data from external sources and display it in the application.
 
-Accordions: Enables the toggle functionality for FAQ accordions. Clicking on a question expands or collapses the corresponding answer, and the icon changes between a plus and a times symbol accordingly.
-Event Listeners: Attaches click event listeners to each FAQ title, triggering the accordion functionality.
+Front-end development: The project showcases skills in front-end development, specifically using HTML, CSS, and JavaScript to create the user interface, implement interactivity, and fetch data from APIs.
 
-
+Project management: The project was developed using a version control system (Git) and follows best practices for code organization and documentation.
