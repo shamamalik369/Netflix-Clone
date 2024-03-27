@@ -13,4 +13,5 @@ API integration: The project demonstrates skills in API integration, specificall
 
 Front-end development: The project showcases skills in front-end development, specifically using HTML, CSS, and JavaScript to create the user interface, implement interactivity, and fetch data from APIs.
 
-Project management: The project was developed using a version control system (Git) and follows best practices for code organization and documentation.
+Project management: The project was developed using a vers![Screenshot (34)](https://github.com/shamamalik369/Netflix-Clone/assets/73518502/0a660a09-0d64-4dbe-8426-89fe23f7bd39)
+ion control system (Git) and follows best practices for code organization and documentation.
